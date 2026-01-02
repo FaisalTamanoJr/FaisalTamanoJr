@@ -22,7 +22,7 @@ I am a Computer Engineering student at De La Salle University Manila. I am stron
 - 👦 Pronouns: He/Him
 - 🔭 I’m currently pursuing my Bachelor of Science Degree in **Computer Engineering** at **De La Salle University Manila**
 - ❤️ I love **C**, **Python**, and software development in general. I aim to be very proficient in **Microcontrollers**, **Microprocessors**, **C++**, and also Web & Mobile Application development within the next 5 years.
-- ⚡ ️Fun fact: I try to share my thought process (like how I plan my papers) and research/readings online through my [website](https://faisals-notebook.pages.dev/) (when both possible and feasible). Besides wanting to be an efficient learner, I also want to be an effective communicator.
+- ⚡ Fun fact: I try to share my thought process (like how I plan my papers) and research/readings online through my [website](https://faisals-notebook.pages.dev/) (when both possible and feasible). Besides wanting to be an efficient learner, I also want to be an effective communicator.
 
 ## 🔨 Tools I Have Used and Learned 
 
