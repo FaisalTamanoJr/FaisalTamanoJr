@@ -2,11 +2,11 @@
 
 ![header](./assets/github-header-banner.png)
 
-I am a Computer Engineering student at DLSU Manila. I am strongly driven by my curiosity to explore novel ideas and also understand the underlying processes behind different technologies. I enjoy cooperating with others, discussing potential solutions to challenging problems, and asking questions which rectify the gaps in my knowledge.
+I am a Computer Engineering student at De La Salle University Manila. I am strongly driven by my curiosity to explore novel ideas and also understand the underlying processes behind different technologies. I enjoy cooperating with others, discussing potential solutions to challenging problems, and asking questions which rectify the gaps in my knowledge.
 
 <p align="center">
   <a href="https://faisals-notebook.pages.dev/">
-    <img height="50" style="margin-right:16px;"
+    <img height="50" 
          src="https://github.com/FaisalTamanoJr/FaisalTamanoJr/blob/94b4813453425c8d0ef5825d6474df59282c06dd/assets/website.png?raw=true"/>
   </a>
   <a href="https://www.linkedin.com/in/faisal-richard-tamano-jr-71785836b/">
@@ -18,10 +18,10 @@ I am a Computer Engineering student at DLSU Manila. I am strongly driven by my c
 
 ## 📒 About Me
 
-- 👦 Pronouns: He/him
-- 🔭 I’m currently pursuing my Bachelor of Science Degree in Computer Engineering at De La Salle University Manila
-- ❤️ I love C, Python, and software development in general. I aim to be very proficient in Microcontrollers, Microprocessors, C++, and also Web & Mobile Application development within the next 5 years.
-- ⚡ ️Fun fact: I try to share my thought process and research online in my [website](https://faisals-notebook.pages.dev/) when both possible and feasible. Besides wanting to be an efficient learner, I also want to be an effective communicator.
+- 👦 Pronouns: He/Him
+- 🔭 I’m currently pursuing my Bachelor of Science Degree in **Computer Engineering** at **De La Salle University Manila**
+- ❤️ I love **C**, **Python**, and software development in general. I aim to be very proficient in **Microcontrollers**, **Microprocessors**, **C++**, and also Web & Mobile Application development within the next 5 years.
+- ⚡ ️Fun fact: I try to share my thought process (like how I plan my papers) and research/readings online through my [website](https://faisals-notebook.pages.dev/) (when both possible and feasible). Besides wanting to be an efficient learner, I also want to be an effective communicator.
 
 ## 🔨 Tools I Have Used and Learned 
 
