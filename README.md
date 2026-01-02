@@ -5,15 +5,16 @@
 I am a Computer Engineering student at De La Salle University Manila. I am strongly driven by my curiosity to explore novel ideas and also understand the underlying processes behind different technologies. I enjoy cooperating with others, discussing potential solutions to challenging problems, and asking questions which rectify the gaps in my knowledge.
 
 <p align="center">
-  <a href="https://faisals-notebook.pages.dev/">
-    <img height="50" style="margin-right:16px; text-decoration:none;"
+  <a href="https://faisals-notebook.pages.dev/" style="display:inline-block; margin-right:16px;">
+    <img height="50"
          src="https://github.com/FaisalTamanoJr/FaisalTamanoJr/blob/94b4813453425c8d0ef5825d6474df59282c06dd/assets/website.png?raw=true"/>
   </a>
-  <a href="https://www.linkedin.com/in/faisal-richard-tamano-jr-71785836b/">
-    <img height="50" style="text-decoration:none;"
+  <a href="https://www.linkedin.com/in/faisal-richard-tamano-jr-71785836b/" style="display:inline-block;">
+    <img height="50"
          src="https://github.com/FaisalTamanoJr/FaisalTamanoJr/blob/94b4813453425c8d0ef5825d6474df59282c06dd/assets/linked_in.png?raw=true"/>
   </a>
 </p>
+
 <sub><i>Icons by <a href="https://www.freepik.com">Freepik</a></i></sub>
 
 ## 📒 About Me
