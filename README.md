@@ -6,11 +6,11 @@ I am a Computer Engineering student at De La Salle University Manila. I am stron
 
 <p align="center">
   <a href="https://faisals-notebook.pages.dev/">
-    <img height="50" 
+    <img height="50" style="margin-right:16px; text-decoration:none;"
          src="https://github.com/FaisalTamanoJr/FaisalTamanoJr/blob/94b4813453425c8d0ef5825d6474df59282c06dd/assets/website.png?raw=true"/>
   </a>
   <a href="https://www.linkedin.com/in/faisal-richard-tamano-jr-71785836b/">
-    <img height="50"
+    <img height="50" style="text-decoration:none;"
          src="https://github.com/FaisalTamanoJr/FaisalTamanoJr/blob/94b4813453425c8d0ef5825d6474df59282c06dd/assets/linked_in.png?raw=true"/>
   </a>
 </p>
