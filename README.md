@@ -28,11 +28,11 @@ I am a Computer Engineering student at De La Salle University Manila. I am stron
 
 ### 🔠 Languages and Frameworks
 
-[![Languages and Frameworks](https://skillicons.dev/icons?i=c,cpp,java,python,js,go,html,css,git,bash,flask,latex,md,mysql,bootstrap,php,jquery,lua)](https://skillicons.dev)
+[![Languages and Frameworks](https://skillicons.dev/icons?i=c,cpp,java,python,js,go,html,css,git,bash,flask,latex,md,mysql,postgres,sqlite,bootstrap,php,jquery,lua,opencv,docker,laravel,matlab)](https://skillicons.dev)
 
 ### 🧑‍💻 Applications and Platforms
 
-[![Apps and Platforms](https://skillicons.dev/icons?i=vim,neovim,autocad,figma,ae,ps,heroku,idea,pycharm,vscode,obsidian)](https://skillicons.dev)
+[![Apps, Platforms, and Other Skills](https://skillicons.dev/icons?i=vim,neovim,autocad,figma,ae,ps,heroku,idea,pycharm,vscode,obsidian,arduino,linux,docker)](https://skillicons.dev)
 
 ## 📊My GitHub Statistics
 
