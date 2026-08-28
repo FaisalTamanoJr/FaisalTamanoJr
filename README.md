@@ -36,4 +36,4 @@ I am a Computer Engineering student at De La Salle University Manila. I am stron
 
 ## 📊My GitHub Statistics
 
-[![Faisal's GitHub stats](https://github-readme-stats-three-amber-43.vercel.app/api?username=FaisalTamanoJr&show_icons=true&theme=dark&include_all_commits=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Faisal's GitHub stats](https://github-stats-extended.vercel.app/api?username=FaisalTamanoJr)
